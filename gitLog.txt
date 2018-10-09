@@ -1,0 +1,35 @@
+commit 34f8f8376762d05d965455fd4c5e3cf91fd0883e
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 14:29:08 2018 +0200
+
+    changed answer about moon
+
+commit 48f8b57200ae95ab0dc9a3d5b99e5adaf6def878
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 14:21:26 2018 +0200
+
+    deleted thing about base
+
+commit 252d31f72a7f7a7beded057c7247f2b919a558f2
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 14:18:43 2018 +0200
+
+    answer about moons
+
+commit 33334fa4ce439b743e0eb7d585ee834197cc4ce2
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 14:11:58 2018 +0200
+
+    question about the moon
+
+commit 10196d6feabae64e6a8ba4b3d612106cbaa939a2
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 14:10:16 2018 +0200
+
+    added stuff about base
+
+commit 8e896cf307b82a9a8aef7d73699d54f4abfac63c
+Author: Jenny Olsson <olssonjenny93@gmail.com>
+Date:   Tue Oct 9 13:59:16 2018 +0200
+
+    Created the file mars.txt
